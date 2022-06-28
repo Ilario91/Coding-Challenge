@@ -1,0 +1,71 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+.contenitore{
+  text-align:center;
+  background-color:rgba(0,0,0,0.8);
+  margin:90px;}
+
+.motto{
+  color: green ;}
+
+.logo{
+  width: 200px;
+  height: auto;}
+
+.tasti{
+  background-color: green;
+  margin-left: 80px;
+  margin-right: 80px;}
+
+.primaopzione{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  margin-top: 10px;}
+
+.primaopzionetesto{
+  color: white;
+  text-align: left;
+  margin bottom: 1px}
+
+.primaopzionetesto1{
+  color: white;
+  text-align: left;  }
+
+.barra-arancione{
+  height:20px;
+  margin-right: 500px;
+  border-width:0;
+  color:orange;
+  background-color:orange;}
+
+.secondaopzione{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  margin-top: 10px; }
+
+.barra-verde1{
+  height:20px;
+  margin-right: 200px;
+  border-width:0;
+  color:green;
+  background-color:green;}
+
+.terzaopzione{
+  color: white;
+  font-size: 20px;
+  text-align: left;
+  margin-top: 10px;  }
+
+.barra-rossa{
+  height:20px;
+  margin-right: 1000px;
+  border-width:0;
+  color:red;
+  background-color:red;}
+
+  }
